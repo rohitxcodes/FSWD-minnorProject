@@ -1,0 +1,21 @@
+# Node (applies to both client & server)
+node_modules/
+
+# Env files (both)
+.env
+.env.*
+
+# Builds
+client/dist/
+client/build/
+server/dist/
+
+# Logs
+*.log
+
+# Coverage
+coverage/
+
+# IDE
+.vscode/
+.idea/
